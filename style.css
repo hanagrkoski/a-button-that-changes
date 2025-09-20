@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-bottom: 40px; 
+}
+
+a {
+    text-decoration: none;
+    background-color: navy;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+a::before {
+    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    opacity: 0;
+}
+
+a:hover::before {
+    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    opacity: 1;
+}
