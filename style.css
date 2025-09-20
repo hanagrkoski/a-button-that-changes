@@ -16,7 +16,7 @@ a {
 }
 
 a::before {
-    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    content: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fclick&psig=AOvVaw2zuZ77vStlkEwll4yuy7w-&ust=1758458370067000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjz1oWu548DFQAAAAAdAAAAABAE");
     width: 30px;
     height: 30px;
     margin-right: 10px;
@@ -24,7 +24,7 @@ a::before {
 }
 
 a:hover::before {
-    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    content: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fclick&psig=AOvVaw2zuZ77vStlkEwll4yuy7w-&ust=1758458370067000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjz1oWu548DFQAAAAAdAAAAABAE");
     width: 30px;
     height: 30px;
     margin-right: 10px;
